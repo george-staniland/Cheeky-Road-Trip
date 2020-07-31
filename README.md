@@ -1,7 +1,9 @@
-# Cheeky Roadtrip - In Development
+# Cheeky Roadtrip
 
 ## Heroku Deploy 
 ### https://cheeky-roadtrip.herokuapp.com/
+
+### Tech Used -
 
 
 ## Setup
