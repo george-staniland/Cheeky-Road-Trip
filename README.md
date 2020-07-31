@@ -3,7 +3,7 @@
 ## Heroku Deploy 
 ### https://cheeky-roadtrip.herokuapp.com/
 
-### Tech Used -
+### Tech Used - React, Redux, Mapbox, Express, PositionStack API
 
 
 ## Setup
