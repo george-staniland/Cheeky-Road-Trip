@@ -1,6 +1,9 @@
 # Cheeky Roadtrip
 ### Created in a team of four over six days at Wellington based [Dev Academy](https://devacademy.co.nz/)
-#### Tech-Stack: Node.js, React, Redux, Mapbox, Express, PositionStack API
+### Team: [Derek](https://github.com/derekbutlr), [Ben](https://github.com/ben-irvine), [Richard](https://github.com/richard-eman)
+### Tech-Stack: Node.js, React, Redux, Mapbox, Express, PositionStack API
+
+
 
 # Working Proccess below :wrench: :computer:
 
