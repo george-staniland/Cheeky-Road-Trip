@@ -1,15 +1,16 @@
 # Cheeky Roadtrip :red_car:
 ### Created in a team of four over six days at Wellington based [Dev Academy](https://devacademy.co.nz/)
-##### Team: [Derek](https://github.com/derekbutlr), [Ben](https://github.com/ben-irvine), [Richard](https://github.com/richard-eman)
-##### Tech-Stack: Node.js, React, Redux, Mapbox, Express, PositionStack API
-### Preview
+#### Team: [Derek](https://github.com/derekbutlr), [Ben](https://github.com/ben-irvine), [Richard](https://github.com/richard-eman)
+#### Tech-Stack: Node.js, React, Redux, Mapbox, Express, PositionStack API
+#### Preview
 <img src="readme-images/prev-1.png" width="500">
 <img src="readme-images/prev-2.png" width="500">
 <img src="readme-images/prev-3.png" width="500">
+#### Web-App Hosted Here #### *- apologies for the slow-load speeding - currently hosted on a free verison of Heroku*
+https://cheeky-roadtrip.herokuapp.com/
 
 
-
-## Working Proccess below :wrench: :computer:
+### Working Proccess below :wrench: :computer:
 
 #### Setup
 
