@@ -6,7 +6,8 @@
 <img src="readme-images/prev-1.png" width="500">
 <img src="readme-images/prev-2.png" width="500">
 <img src="readme-images/prev-3.png" width="500">
-#### Web-App Hosted Here #### *- apologies for the slow-load speeding - currently hosted on a free verison of Heroku*
+#### Web-App Hosted Here  
+- *apologies for the slow-load speeding - currently hosted on a free verison of Heroku*
 https://cheeky-roadtrip.herokuapp.com/
 
 
