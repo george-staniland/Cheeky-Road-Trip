@@ -1,12 +1,10 @@
 # Cheeky Roadtrip
+### Created in a team of four over six days at Wellington based [Dev Academy](https://devacademy.co.nz/)
+#### Tech-Stack: Node.js, React, Redux, Mapbox, Express, PositionStack API
 
-## Heroku Deploy 
-### https://cheeky-roadtrip.herokuapp.com/
+# Working Proccess below :wrench: :computer:
 
-### Tech Used - React, Redux, Mapbox, Express, PositionStack API
-
-
-## Setup
+#### Setup
 
 Run the following commands in your terminal:
 
