@@ -32,17 +32,19 @@ function pullMidpointData(MID) {
     return arr
 }
 
+
+
 class Mapbox extends React.Component {
   state = {
     lng: this.props.currentTrip.START.longitude,
     lat: this.props.currentTrip.START.latitude,
-    zoom: 5.75,
+    zoom: 13.82,
     currentMidPoints: this.props.currentTrip.MID.length,
     bRoomVis: true,
     swimVis: true,
     eatVis: true
   }
-
+  
 
 
   componentDidMount() {
@@ -120,6 +122,8 @@ class Mapbox extends React.Component {
       const dataStructureType3 = {
         description: '<p class="popuptitle">Toilets :)</p> <p>No extra information :(</p>'
       }
+
+
 
       const setName = () => {
         if (dataStructureType1.name != undefined) {
@@ -332,6 +336,7 @@ class Mapbox extends React.Component {
           })
         }
       )
+
 
 
       // BATHROOM MARKERS
