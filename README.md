@@ -7,9 +7,8 @@
 <img src="readme-images/prev-2.png" width="500">
 <img src="readme-images/prev-3.png" width="500">
 
-#### Application hosted here
-*- apologies for the slow load speed, developement verison hosted on the free Heroku platform*
-
+#### Application hosted here 
+* Map page not working at Jan, 2021 :( | Unable to afford API 
 
 https://cheeky-roadtrip.herokuapp.com/
 
